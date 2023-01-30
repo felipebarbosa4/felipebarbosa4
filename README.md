@@ -6,6 +6,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML)
 
 **Some of the technologies I have worked with**
 
