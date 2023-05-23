@@ -4,9 +4,14 @@
 
 **Languages I have used**
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML)
+![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=Csharp)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+![COBOL](https://img.shields.io/badge/-COBOL-000000?style=flat&logo=COBOL)
 
 **Some of the technologies I have worked with**
 
